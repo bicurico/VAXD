@@ -1,5 +1,7 @@
 # VAXD
 
+![VAXD Logo](screenshots/VAXD%20-%20Small.png)
+
 VAXD is a lightweight Windows disassembler and patch-assistance tool for PE executables and DLL files.
 
 It includes separate versions for:
@@ -8,6 +10,7 @@ It includes separate versions for:
 - x86 PE EXE/DLL files
 
 VAXD is designed for quick inspection, jump/call visualization, and simple binary patching workflows.
+![VAXD main window](screenshots/screenshot.png)
 
 ## Features
 
