@@ -10,7 +10,7 @@ It includes separate versions for:
 - x86 PE EXE/DLL files
 
 VAXD is designed for quick inspection, jump/call visualization, and simple binary patching workflows.
-![VAXD main window](screenshots/screenshot.png)
+![VAXD main window](screenshots/Screenshot.png)
 
 ## Features
 
