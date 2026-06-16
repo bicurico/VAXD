@@ -1,6 +1,8 @@
 # VAXD
 
-![VAXD Logo](screenshots/VAXD%20-%20Small.png)
+<p align="center">
+  <img src="screenshots/VAXD%20-%20Small.png" alt="VAXD Logo" width="180">
+</p>
 
 VAXD is a lightweight Windows disassembler and patch-assistance tool for PE executables and DLL files.
 
@@ -10,6 +12,8 @@ It includes separate versions for:
 - x86 PE EXE/DLL files
 
 VAXD is designed for quick inspection, jump/call visualization, and simple binary patching workflows.
+
+## Screenshot
 
 ![VAXD main window](screenshots/Screenshot.png)
 
@@ -26,7 +30,7 @@ VAXD is designed for quick inspection, jump/call visualization, and simple binar
 
 ## Download
 
-Download the latest ZIP package from the **Releases** section.
+Download the latest ZIP package from the [Releases](https://github.com/bicurico/VAXD/releases/latest) section.
 
 ## License
 
@@ -37,6 +41,10 @@ Saving or exporting patched files requires a license.
 For license requests, contact:
 
 **vma@norcam.pt**
+
+## Intended use
+
+VAXD is intended for legitimate software analysis, education, interoperability research, malware triage, and inspection of software you own or are authorized to analyze.
 
 ## Third-party components
 
