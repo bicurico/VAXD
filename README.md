@@ -1,6 +1,6 @@
 # VAXD
 
-<p align="center">
+<p align="left">
   <img src="screenshots/VAXD%20-%20Small.png" alt="VAXD Logo" width="180">
 </p>
 
