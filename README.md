@@ -14,7 +14,11 @@ VAXD focuses on speed, simplicity, and usability. It is intended for users who w
 
 ## Screenshot
 
-![VAXD main window](screenshots/Screenshot.png)
+![VAXD main window](screenshots/01.png)
+![VAXD main window](screenshots/02.png)
+![VAXD main window](screenshots/03.png)
+![VAXD main window](screenshots/04.png)
+![VAXD main window](screenshots/05.png)
 
 ---
 
