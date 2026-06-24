@@ -20,7 +20,7 @@ Home page: https://vma-broadcast.com/vaxd-vma-executable-disassembler/
 
 ![VAXD main window](screenshots/01.png)
 ![VAXD main window](screenshots/02.png)
-![VAXD main window](screenshots/03a.png)
+![VAXD main window](screenshots/03.png)
 ![VAXD main window](screenshots/04.png)
 ![VAXD main window](screenshots/05.png)
 
